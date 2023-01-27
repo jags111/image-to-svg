@@ -123,7 +123,7 @@ function ImageConverter() {
                     </Navbar.Brand>
 
                     <Nav className="d-flex align-items-center">
-                        <Nav.Link target="_blank" href="https://github.com/" className="link">
+                        <Nav.Link target="_blank" href="https://github.com/loganchaffee/image-to-svg" className="link">
                             GitHub
                         </Nav.Link>
                         <Button variant="primary" onClick={handleShow} className="d-block d-sm-none">
